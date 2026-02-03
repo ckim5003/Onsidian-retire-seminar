@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "옵시디언 깃 연동 테스트.md",
+                "file": "퇴진준비 세미나 1회차.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "옵시디언 깃 연동 테스트"
+              "title": "퇴진준비 세미나 1회차"
             }
           }
         ]
@@ -200,8 +200,8 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "594cdc53ce66306b",
+  "active": "45eec371d9c794df",
   "lastOpenFiles": [
-    "옵시디언 깃 연동 테스트.md"
+    "퇴진준비 세미나 1회차.md"
   ]
 }
